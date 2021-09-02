@@ -3,7 +3,7 @@
 
 ### How to setup a fully ready [Prestashop](https://github.com/PrestaShop) developing enviroment?
 ***
-#### *[Binshops.com](https://binshops.com)* team recommendation set to help [Prestashop](https://github.com/PrestaShop) developers setup a handy enviroment fast and easy.
+#### *[Binshops](https://github.com/binshops)* team recommendation set to help [Prestashop](https://github.com/PrestaShop) developers setup a handy enviroment fast and easy.
 ***
 *This guide gets updated mostly based on team developers expirence. But we also accept your suggestions.*
 ***
