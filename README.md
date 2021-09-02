@@ -2,14 +2,11 @@
 
 
 ### How to setup a fully ready [Prestashop](https://github.com/PrestaShop) developing enviroment?
-***
-#### *[Binshops](https://github.com/binshops)* team recommendation set to help [Prestashop](https://github.com/PrestaShop) developers setup a handy enviroment fast and easy.
-***
-*This guide gets updated mostly based on team developers expirence. But we also accept your suggestions.*
+* #### **[Binshops](https://github.com/binshops)** team recommendation set to help [Prestashop](https://github.com/PrestaShop) developers setup a handy enviroment fast and easy.
+* *This guide gets updated mostly based on team developers expirence. But we also accept your suggestions.*
 ***
 ### Setup An Ubuntu Running Machine
 1. [Download](https://ubuntu.com/download/desktop) and [Install](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) Ubuntu.
-***
 ### Install Softwares And Packages
 1. [Apache](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04)
 2. [MySQL](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
@@ -31,4 +28,3 @@
 PrestaShop system requirements checker
 1. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 2. [GitKraken](https://support.gitkraken.com/how-to-install/)
-***
