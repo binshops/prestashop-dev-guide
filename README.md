@@ -17,14 +17,14 @@
       1. Download zip
 	  2. Extract in `/var/www/html/`
 	  3. Grant all access to `/phpmyadmin/` with this terminal command `sudo chmod -R 777 /phpmyadmin/`
-   4. MySQL Workbench
-3. IDE (Choose one)
+   2. MySQL Workbench
+5. IDE (Choose one)
    1. [Visual Studio Code](https://code.visualstudio.com/download)
    2. [PHP Storm](https://www.jetbrains.com/phpstorm/download/)
-4. Debugger(Choose one)
+6. Debugger(Choose one)
    1. Xdebug for Visual Studio Code
    2. Xdebug for PHP Storm
-5. [PhpPsInfo](https://github.com/PrestaShop/php-ps-info)
+7. [PhpPsInfo](https://github.com/PrestaShop/php-ps-info)
 PrestaShop system requirements checker
-1. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-2. [GitKraken](https://support.gitkraken.com/how-to-install/)
+8. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+9. [GitKraken](https://support.gitkraken.com/how-to-install/)
