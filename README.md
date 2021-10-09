@@ -23,6 +23,14 @@
    2. [PHP Storm](https://www.jetbrains.com/phpstorm/download/)
 6. Debugger(Choose one)
    1. Xdebug for Visual Studio Code
+      1. `sudo apt install php-xdebug`
+      2. `sudo gedit /etc/php/7.4/mods-available/xdebug.ini`
+      3. add these lines and save:
+         1. `zend_extension=/usr/lib/php/20190902/xdebug.so`
+         2. `xdebug.mode=debug`
+         3. `xdebug.start_with_request=yes`
+      4. install php debug extension in vscode
+      5. `sudo service apache2 restart`
    2. Xdebug for PHP Storm
 7. [PhpPsInfo](https://github.com/PrestaShop/php-ps-info)
 PrestaShop system requirements checker
