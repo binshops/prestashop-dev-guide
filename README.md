@@ -3,7 +3,7 @@
 
 ### How to setup a fully ready [Prestashop](https://github.com/PrestaShop) developing enviroment?
 * #### **[Binshops](https://github.com/binshops)** team recommendation set to help [Prestashop](https://github.com/PrestaShop) developers setup a handy enviroment fast and easy.
-* *This guide gets updated mostly based on team developers expirence. But we also accept your suggestions.*
+* *This guide gets updated mostly based on developers' experience.*
 ***
 ### Setup An Ubuntu Running Machine
 1. [Download](https://ubuntu.com/download/desktop) and [Install](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) Ubuntu.
