@@ -36,3 +36,8 @@
 PrestaShop system requirements checker
 8. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 9. [GitKraken](https://support.gitkraken.com/how-to-install/)
+
+## MAMP Setup on Mac using Port
+- https://trac.macports.org/wiki/howto/MAMP
+- https://trac.macports.org/wiki/howto/Apache2
+- https://trac.macports.org/wiki/howto/PHP
